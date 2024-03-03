@@ -5,3 +5,8 @@ instrkt output a
 instrkt varSTR b = "lol"
 instrkt output b //outputs lol
 instrkt varSTR = input() //requires input 
+
+instrkt func() {
+               function here
+
+ }
