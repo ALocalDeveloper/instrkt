@@ -1,0 +1,7 @@
+syntax
+instrkt varINT a = 5
+instrkt output a
+//outputs 5
+instrkt varSTR b = "lol"
+instrkt output b //outputs lol
+instrkt varSTR = input() //requires input 
